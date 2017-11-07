@@ -95,3 +95,7 @@ Check that the service has started by running:
     sudo systemctl status beebotte-bme680.service
 
 If done correctly, you should see that your `beebotte-bme680.py` script is now running!
+
+## Live data from my BME680
+
+If you are interested in seeing how this data can be displayed, take a look at my dashboard on [Beebottee](https://beebotte.com/dash/0267cb20-c3d0-11e7-bfef-6f68fef5ca14#.WgHUsxO0NN2).
